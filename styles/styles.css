@@ -212,8 +212,8 @@ body {
 }
 
 .landing-container{
-	background-image: url('images/bg-stars.png');
-	background-size: cover;
+	background-image: url('../images/bg-stars.png');
+    background-size: 300%;
 }
 
 /* Styling for logo container */
